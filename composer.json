@@ -1,0 +1,16 @@
+{
+    "name": "thaibulksms-api",
+    "description": "บริการส่งข้อความ SMS ครบวงจร ส่งไว มั่นใจได้ในความเสถียร พร้อมให้คำปรึกษาทุกขั้นตอน",
+    "license": "MIT",
+    "require": {
+      "php": ">=5"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+      "psr-4": {
+        "THAIBULKSMS_API\\SMS\\": "src/thaibulksms-api"
+      }
+    }
+  
+  }
