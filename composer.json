@@ -1,5 +1,5 @@
 {
-    "name": "thaibulksms-api",
+    "name": "aslovechart/thaibulksms-api",
     "description": "บริการส่งข้อความ SMS ครบวงจร ส่งไว มั่นใจได้ในความเสถียร พร้อมให้คำปรึกษาทุกขั้นตอน",
     "license": "MIT",
     "require": {
